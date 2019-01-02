@@ -15,18 +15,22 @@ Start your Kibana
 Move into plugins folder:  cd KIBANA_HOME/plugins
 
 **Install dependencies:**
-
+```
 cd network_vis
 rm -rf images/
 npm install
+```
 
 **Start Kibana**
 
 Important: If you have any problem with the plugin version (like a warning message "it expected Kibana version "x.x.x", and found "x.x.x"") only change the value of the "version" tag on the package.json to your Kibana version
 
 **Uninstall:**
+```
 cd KIBANA_HOME
 rm -rf plugins/network_vis/
+```
+
 Types of networks
 Two types of Nodes:
 It can select 'Node'-'Node' in buckets to show a network that link two types of nodes. Each type is the result of the field selected.
