@@ -37,15 +37,17 @@ It can select 'Node'-'Node' in buckets to show a network that link two types of 
 **Two types of Nodes:**
 It can select 'Node'-'Node' in buckets to show a network that link two types of nodes. Each type is the result of the field selected.
 
-![alt text](https://github.com/dlumbrer/kbn_network/blob/master/images/Easy.png)
+![Screenshot](images/Easy.png)
 
 **Nodes linked by a Relationship:** 
 First, select 'Node' on buckets for build the network of one type of nodes, it depends of the field it has been selected. After, select 'Relation' to link the nodes through a relationship that depends of the field it has been selected.
 
-![alt text](https://github.com/dlumbrer/kbn_network/blob/master/images/Types.png)
+![Screenshot](images/Types.png)
 
 **Additional Features:**
 Intially each node is not stablized in visuzation, it has been keepon roaming around the browser window. After that We stablize those nodes with fixed location, whenever new data loaded it's not changed. Its been formed like Parent-Child Relationship. 
+
+![Screenshot](images/tango.jpeg)
 
 
 
