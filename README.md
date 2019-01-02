@@ -7,8 +7,10 @@ This is a plugin developed for Kibana that displays a network node that link two
 Now this plugin is avalible for differents versions of Kibana (6, 5 and 4), in releases you can download the plugin with all its dependencies installed:
 
 **Go to releases and download the right one for your Kibana**
+```
 unzip/untar it into KIBANA_HOME/plugins
 Start your Kibana
+```
 
 **Installation Steps from GitHub source code**
 
