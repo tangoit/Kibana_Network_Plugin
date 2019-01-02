@@ -47,7 +47,7 @@ First, select 'Node' on buckets for build the network of one type of nodes, it d
 **Additional Features:**
 Intially each node is not stablized in visuzation, it has been keepon roaming around the browser window. After that We stablize those nodes with fixed location, whenever new data loaded it's not changed. Its been formed like Parent-Child Relationship. 
 
-![Screenshot](images/tango.jpeg)
+![file](images/tango.jpeg)
 
 
 
